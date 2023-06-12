@@ -1,0 +1,95 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    
+}
+.mainContainer{
+    border:0.5px solid black; 
+}
+.container{
+    font-size: large;
+    border:0.5px solid black; 
+    width: 1100px;
+    height: 800px;
+}
+.logo{
+    display: inline-block;
+    width: 535px;
+    height: 150px;
+    text-align: center;
+    font-size: xx-large
+}
+.case{
+    display: inline-block;
+    background-color: green;
+    width: 535px;
+    height: 50px;
+    text-align: center;
+    font-size:x-large;
+}
+.point3{
+    display: inline-block;
+    width: 535px;
+    height: 100px;
+    text-align: center;
+    font-size: larger;
+    
+}
+.data{
+    display: inline-block;
+    background-color: green;
+    width: 535px;
+    height: 50px;
+    text-align: center;
+    font-size:x-large;
+    
+}
+.schema{
+    display: inline-block;
+    width: 535px;
+    height: 100px;
+    text-align: center;
+    font-size: larger;
+}
+.Risk{
+    display: inline-block;
+    background-color: green;
+    width: 535px;
+    height: 50px;
+    text-align: center;
+    font-size:x-large;
+    
+}
+.point9{
+    display: inline-block; 
+    width: 535px;
+    height: 100px;
+    text-align: center;
+    font-size: larger;
+}
+.analysis{
+    display: inline-block;
+    background-color: green;
+    width: 535px;
+    height: 50px;
+    text-align: center;
+    font-size:x-large;
+}
+.last{
+    display: inline-block;
+    width: 535px;
+    height: 200px;
+    text-align: center;
+    font-size: larger;
+}
+div{
+    padding: 10px;
+}
+    
+.orange{
+    background-color: red
+}
+    
+
+
